@@ -1,0 +1,70 @@
+div.navbar{
+    padding: 5px;
+    margin: 0%;
+    background-color: rgb(50, 50, 51);
+    color: whitesmoke;
+    text-align: right;
+    height: 27px;
+}
+
+span:hover{
+    color: rgb(189, 192, 194);
+}
+
+.icon{
+    padding-top: 40px;
+    margin-left: 42%;
+    width: 200px;
+}
+
+h1{
+    padding-top: 20px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+section{
+    margin-right: 7%;
+    margin-left: 15%;    
+}
+
+h2{
+    padding-top: 2%;
+    text-align: center;
+}
+
+hr{
+    width: 200px;
+	border-top: 4px solid rgb(51, 51, 51);
+}
+
+.col{
+    padding-top: 20px;
+    padding-left: 20px;
+    display: inline-block;
+    width: 40%;
+}
+
+.gmbrabout{
+    margin-left: 30px;
+    border-radius: 20px;
+    height: 200px;
+    width: 300px;
+}
+
+
+.gallery{
+    margin: 10px 10px 0px 35px;
+    padding: 8px;
+    
+}
+
+div.footer{
+    padding-top: 40 px;
+    padding-right: 4%;
+    padding-left: 4%;
+    color: whitesmoke;
+    background-color:rgb(50, 50, 51);
+    height: 30px;
+    text-align: center;
+}
